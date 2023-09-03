@@ -2,7 +2,7 @@
 
 Survive The Ghouls is a game where the goal is to fight against zombies and survive for as long as possible. I developed this game entirely on my own using free assets. The purpose of developing this game is not to make any income but to educate myself and gain experience in game development.
 
-You can download and play the game from this link = https://drive.google.com/file/d/14F4M_GuSUp48RkhKN8dC6B9-1b0MdbjN/view?usp=drive_link
+You can download and play the game from this link = https://drive.google.com/file/d/1l5ftdtqlk6zdjpbRyQV4nTYjmlHX2su-/view?usp=sharing
 
 You can view all the scripts i've written during the development stage in the file named "Scripts".
 

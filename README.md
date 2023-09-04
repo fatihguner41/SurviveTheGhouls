@@ -12,6 +12,7 @@ The objective of the game is to survive against waves of incoming ghoul hordes f
 
 Note: Shooting from the head deals more damage on enemies. Try to use your bullets efficiently!
 
+Gameplay video: https://clipchamp.com/watch/kq46L3kQFcB
 
 Screenshots:
 
